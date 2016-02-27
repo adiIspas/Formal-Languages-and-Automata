@@ -1,0 +1,30 @@
+UNIVERSITATEA DIN BUCURESTI, FACULTATEA DE MATEMATICA SI INFORMATICA
+Proiect I Limbaje Formale si Automate - Transformare AFN in AFD
+ISPAS ADRIAN, Grupa 143
+
+I - Informatii despre proiect
+
+	Programul realizeaza transformarea unui Automat Finit Nedeterminist, citit din fisier, intr-un Automat Finit Determinist 
+incluzand si functia de testare daca un cuvant este sau nu acceptat de automat.
+	Programul functioneaza atat cu tipul de date intrg cat si cu tipul de date char pentru alfabetul de intrare al automatului.
+
+II - Informatii despre datele de intrare
+
+	Principalele date de intrare sunt preluate din fisierul "input.txt", mai putin cuvantul de testat care este introdus in consola
+in timpul executiei programului.
+	Pe prima linie in fisierul de intrare se va afla starea initiala. Pe a doua linie se va afla numarul de stari finale si starile
+finale separate printr-un spatiu. In continuare se va descrie automatul finit nedeterminist prin completarea celorlalte linii cu 3 informatii.
+Prima informatie ce trebuie trecuta este starea in care se afla automatul, urmata de simbolul de tranzitie si o stare in care se ajunge cu cele 
+doua combinatii. 
+	Pentru cazul in care sunt mai mult stari in care automatul poate ajunge cu un simbol de tranzitie, acestea se vor scrie succesiv pe
+urmatoarele linii.
+	Introducerea cuvantului de testat se face in timpul rularii programului in consola acestuia atunci cand este solocitat prin mesajul
+"Va rugam sa introduce-ti un cuvant de testat: ".
+
+III - Informatii despre datele de iesire
+
+	Datele de iesire sunt exclusiv furnizate in consola programului executat, iar acestea cuprind: Automatul Finit Determinist echivalent
+Automatului Finit Nedeterminist dat prin datele de intrare. Acesta este afisat sub forma: 
+Starea in care se afla -> Simbolul de tranzitie -> Starea in care se poate ajunge.
+	Pe langa aceasta informatie, programul va solicita un cuvant de testare si va preciza daca acel cuvant este sau nu acceptat de automatul
+finit nedeterminist, prin aceasta executia programului fiind finalizata.

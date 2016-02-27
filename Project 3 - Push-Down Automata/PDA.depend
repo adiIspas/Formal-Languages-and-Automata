@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1431002695 source:c:\users\noi 25\desktop\pda\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<stack>
+
+1431003890 source:g:\teme laborator\lfa\proiect iii\automat push-down\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<stack>
+

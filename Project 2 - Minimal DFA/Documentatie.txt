@@ -1,0 +1,23 @@
+UNIVERSITATEA DIN BUCURESTI, FACULTATEA DE MATEMATICA SI INFORMATICA
+Proiect II Limbaje Formale si Automate - AFD Minimal
+ISPAS ADRIAN, Grupa 143
+
+I - Informatii despre proiect
+
+	Programul minimizeaza un Automat Finit Determinist, citit din fisier.
+
+II - Informatii despre datele de intrare
+	
+	ATENTIE!
+	Se presupune ca in fisierul de intrare se afla un Automat Finit Determinist complet!
+
+	Datele de intrare sunt preluate din fisierul "input.txt". In fisier, ele se gasesc dupa cum urmeaza:
+	Pe prima linie se afla numarul de stari ale automatului. Pe urmatoare linie se afla numarul de stari finale si starile finale.
+	Iar pe urmatoarele 2 x numarul de stari se afla tranzitiile automatului.
+
+III - Informatii despre datele de iesire
+
+	Datele de iesire sunt exclusiv furnizate in consola programului executat, iar acestea cuprind: 
+	Tabelul cu starile marcate si nemarcate de unde au fost prelucrate starile echivalente.
+	Automatul Finit Determinist Minimal asociat automatului primit din fisier. 
+	Acesta este afisat sub forma: Starea in care se afla -> Simbolul de tranzitie -> Starea in care se poate ajunge.

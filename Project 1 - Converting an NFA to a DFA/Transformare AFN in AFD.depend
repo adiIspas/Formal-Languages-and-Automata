@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1427446638 source:c:\users\noi 25\desktop\transformare afn in afd\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<algorithm>
+	<queue>
+	<cstring>
+
+1427448002 source:e:\teme laborator\lfa\proiect i\transformare afn in afd\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<algorithm>
+	<queue>
+	<cstring>
+
+1427448002 source:g:\teme laborator\lfa\proiect i\transformare afn in afd\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<algorithm>
+	<queue>
+	<cstring>
+
+1427451602 source:d:\teme laborator\lfa\proiect i\transformare afn in afd\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<algorithm>
+	<queue>
+	<cstring>
+
